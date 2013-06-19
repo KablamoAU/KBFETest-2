@@ -1,4 +1,4 @@
-###Front End test 2
+###Front-End test 2
 
 ###Instructions
 Please build a responsive web application that displays a map control with the following features:
@@ -14,7 +14,7 @@ Please fork this repo to your personal Github account, and once complete allow u
 When submitting your test, please specify any tools you have used, including the editor you used to write your code, and the instruments used to test performance.
 
 ###General requirements and considerations
-Generally, you should build the web page in the way that you feel it should be built, however the following should be taken into consideration: 
+Generally, you should build the web page in the way that you feel it should be built, however the following should be taken into consideration:
 
 * Accessibility: 
 Ensure that your mark-up takes into account basic accessibility standards. For example alt attributes and similar are set. Please also consider page weight.
@@ -27,6 +27,12 @@ Ensure that your mark-up is semantic. For example, header tags are used where re
 
 * JavaScript:
 Ensure you write neat, tidy JavaScript that you would consider suitable for a live web site.
+
+* RWD: 
+Ensure that your page renders 'appropriately' on a late model iPhone or Android, and Desktop browser.
+
+* Flair:
+This is a chance to show us how creative you can be, whether is animation, coding style, testability, low-level understanding, etc. We're interested to see what unique skills you may have.
 
 * Browsers:
 The page should function and resemble the creative in the following web browsers:
