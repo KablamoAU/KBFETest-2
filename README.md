@@ -7,7 +7,7 @@ Please build a responsive web application that displays a map control with the f
 * The map should center over the pins, at an appropriate zoom level to view all the pins
 * The pins should have a popup that contains the description / title of the pin
 
-We want to understand how you built the application, you may use any 3rd party libraries of your choosing, please just please highlight which ones you have chosen.
+We want to understand how you've built the application, you may use any 3rd party libraries of your choosing, please highlight which ones you have chosen.
 
 Please fork this repo to your personal Github account, and once complete allow us with access to your repo.
 
